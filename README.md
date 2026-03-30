@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey, I'm Soph  
 
-<!--
-**sophia-mtrt/sophia-mtrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *just building stuff for fun and learning along the way*
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I like playing around with code (mostly **Python** & **JavaScript**)  
+- 🧠 Always learning new things… sometimes intentionally  
+- 🛠️ I build random projects when inspiration hits  
+- 🎯 Not a pro (yet), just enjoying the process  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech I Use
+- 🐍 Python (scripts, small tools, experiments)  
+- ⚡ JavaScript (web stuff, sometimes chaos)  
+- 🌐 HTML & CSS (to make things look *acceptable*)  
+
+## 📌 What I'm Doing
+- Working on small personal projects  
+- Breaking things… then fixing them (hopefully)  
+- Exploring new ideas whenever I get bored  
+
+## 🎲 Fun Facts
+- I spend more time thinking about projects than finishing them  
+- My code works… until it doesn’t  
+- Dark mode is not optional  
+
+---
+
+⭐ *Thanks for stopping by*
